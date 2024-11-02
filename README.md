@@ -5,7 +5,7 @@
 
 
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedshareef200" alt="muhammedshareef200" /></a> </p>
+
 
 - 🔭 I’m currently working on [Coin Counter using computer vision](https://github.com/muhammedshareef200/Money-Count-Opencv-Ai)
 
