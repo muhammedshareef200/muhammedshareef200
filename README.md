@@ -1,43 +1,31 @@
 <h1 align="center">Hi 👋, I'm Muhammed Shareef</h1>
-<p align="center">
-    I'm a self-taught developer passionate about technology, problem-solving, and writing maintainable code.
-</p>
+<h3 align="center">An enthusiastic self-learner with a passion for technology, keen on solving complex problems and building clean, reliable code.</h3>
 
-<div align="center">
-    <img src="https://path-to-your-coding-gif.gif" alt="Coding GIF" width="300"/>
+
+- 🔭 I’m currently working on [Coin Counter using computer vision](https://github.com/muhammedshareef200/Money-Count-Opencv-Ai)
+
+- 🌱 I’m currently learning **Next js**
+
+- 💬 Ask me about **React , python and Computer vison**
+
+- 📫 How to reach me **muhammedshareef200@gmail.com**
+  <div align="right">
+    <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding GIF" width="300"/>
 </div>
 
----
-
-### 🌱 About Me
-- 🔭 I’m currently working on [Your Project](https://github.com/muhammedshareef200/Money-Count-Opencv-Ai)
-- 🌱 I’m using **Next.js + React**
-- 💬 Ask me about **ReactJS, JavaScript, API Integration**
-- 📫 Reach me at: **muhammedshareef200@gmail.com**
-
----
-
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
-    <a href="https://instagram.com/yourprofile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-shareef-61529b203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-shareef-61529b203/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/life_behind_cyclebars/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/life_behind_cyclebars/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Languages and Tools:
-<p align="left">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="30" height="30"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="30" height="30"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="30" height="30"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="30" height="30"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="Python" width="30" height="30"/>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedshareef200&show_icons=true&locale=en&layout=compact" alt="muhammedshareef200" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedshareef200&" alt="muhammedshareef200" /></p>
 
-### 📊 GitHub Stats:
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedshareef200&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshareef200&layout=compact&theme=default" alt="Top Languages" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedshareef200&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedshareef200" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedshareef200" alt="muhammedshareef200" /></a> </p>
