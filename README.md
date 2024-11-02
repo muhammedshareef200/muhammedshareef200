@@ -5,14 +5,16 @@
 
 
   
- 
-  ### 🌱 About Me
-- 🔭 I’m currently working on [Your Project](https://github.com/muhammedshareef200/Money-Count-Opencv-Ai)
-- 🌱 I’m using **Next.js + React**
-- 💬 Ask me about **ReactJS, JavaScript, API Integration**
-- 📫 Reach me at: **muhammedshareef200@gmail.com**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedshareef200" alt="muhammedshareef200" /></a> </p>
 
----
+- 🔭 I’m currently working on [Coin Counter using computer vision](https://github.com/muhammedshareef200/Money-Count-Opencv-Ai)
+
+- 🌱 I’m currently learning **Next js**
+
+- 💬 Ask me about **React , python and Computer vison**
+
+- 📫 How to reach me **muhammedshareef200@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
